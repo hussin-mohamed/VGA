@@ -17,8 +17,8 @@ reset<=0;
 #40;
 reset<=1;
 #1200;
-reset=0;
+reset<=0;
 #20
-reset=1;
+reset<=1;
 end
 endmodule
